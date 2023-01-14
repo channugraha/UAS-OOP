@@ -58,10 +58,7 @@ java MainProgram
 
 
 ##Video Tutorial
-
-
-
-
+https://youtu.be/Z1kU8Z7YGO4
 
 ## Credit
 > Chandra Nugraha Ramadhan
