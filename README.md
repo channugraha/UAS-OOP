@@ -57,8 +57,12 @@ java MainProgram
 ![image](https://user-images.githubusercontent.com/116129101/212460934-627fe486-fdb7-46b8-b571-152e8946fd3c.png)
 
 
-## Video Tutorial
-https://youtu.be/Z1kU8Z7YGO4
+## Video Tutorial & PDF
+h[TI.21.C2_312110008_Chandra Nugraha R_UAS_OOP.pdf](https://github.com/channugraha/UAS-OOP/files/10416873/TI.21.C2_312110008_Chandra.Nugraha.R_UAS_OOP.pdf)
+
+ttps://youtu.be/Z1kU8Z7YGO4
+
+
 
 ## Credit
 > Chandra Nugraha Ramadhan
