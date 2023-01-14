@@ -58,9 +58,9 @@ java MainProgram
 
 
 ## Video Tutorial & PDF
-h[TI.21.C2_312110008_Chandra Nugraha R_UAS_OOP.pdf](https://github.com/channugraha/UAS-OOP/files/10416873/TI.21.C2_312110008_Chandra.Nugraha.R_UAS_OOP.pdf)
+[TI.21.C2_312110008_Chandra Nugraha R_UAS_OOP.pdf](https://github.com/channugraha/UAS-OOP/files/10416873/TI.21.C2_312110008_Chandra.Nugraha.R_UAS_OOP.pdf)
 
-ttps://youtu.be/Z1kU8Z7YGO4
+Https://youtu.be/Z1kU8Z7YGO4
 
 
 
